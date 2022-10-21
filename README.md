@@ -1,12 +1,10 @@
-<h1 style="text-align: center;">
-  Horiseon Website Code Refactor
+# Horiseon Website Code Refactor
 
-[View Project Here](https://birdanft.github.io/challenge-01/)
- </h1>
- 
- ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/birdaNFT/challenge-01?style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/birdaNFT/challenge-01?style=for-the-badge)
  ![GitHub repo file count](https://img.shields.io/github/directory-file-count/birdaNFT/challenge-01?style=for-the-badge)
  ![GitHub top language](https://img.shields.io/github/languages/top/birdaNFT/challenge-01?style=for-the-badge)
+ 
+## 👉 [View Project Here](https://birdanft.github.io/challenge-01/)
  
  ## Table of Contents
  
