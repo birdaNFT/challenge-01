@@ -8,6 +8,18 @@
  ![GitHub repo file count](https://img.shields.io/github/directory-file-count/birdaNFT/challenge-01?style=for-the-badge)
  ![GitHub top language](https://img.shields.io/github/languages/top/birdaNFT/challenge-01?style=for-the-badge)
  
+ ## Table of Contents
+ 
+ - [Description](#description)
+ 
+ - [Installation](#installation)
+ 
+ - [Usage](#usage)
+ 
+ - [Credits](#credits)
+ 
+ - [Licence](#licence)
+ 
  ## Description
 
   This is an example website for a social marketing company focusing on good seo and acessibility through semantic html and best practice naming conventions. The goals for this project was to refactor existing code for a companies website and optimising it to be more efficient, be easier to understand for other developers and improve on its accessibility.
