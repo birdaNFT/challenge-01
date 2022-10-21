@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     color: #ffffff;
+    text-decoration: none;
 }
 
 body {
@@ -10,11 +11,18 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+p {
+    font-size: 16px;
+}
+
+
+/* HEADER SECTION STARTS */
 header {
     padding: 20px;
     background-color: #2a607c;
 }
 
+/* Header logo */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -22,9 +30,11 @@ header h1 {
 }
 
 .seo {
-    color: #d9dcd6;
+    color: #d9dcd6; /* Adjusts the color of "seo" in the header logo */
 }
 
+
+/* Main navigation links */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,38 +42,36 @@ nav {
     font-size: 20px;
 }
 
-nav ul {
-    list-style-type: none;
-}
-
 nav li {
     display: inline-block;
     margin-left: 25px;
 }
+/* HEADER SECTION ENDS */
 
-a {
-    text-decoration: none;
-}
 
-p {
-    font-size: 16px;
-}
+/* MAIN PAGE CONTENT START */
 
+/* Main hero image */
 .hero {
     width: 100%;
     margin-bottom: 25px;
 }
 
+
+/* Sets the main contents sections image position to left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Sets the main contents sections image position to right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+
+/* Main center content sections */
 .content {
     width: 75%;
     display: inline-block;
@@ -86,6 +94,8 @@ p {
     font-size: 36px;
 }
 
+
+/* Right hand side section */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -96,7 +106,7 @@ aside {
     background-color: #2589bd;
 }
 
-aside div {
+aside section {
     margin-bottom: 32px;
 }
 
@@ -110,7 +120,10 @@ aside img {
     margin: 10px auto;
     max-width: 150px;
 }
+/* MAIN PAGE CONTENT END */
 
+
+/* FOOTER START */
 footer {
     padding: 30px;
     clear: both;
@@ -125,3 +138,4 @@ footer h2 {
 footer p {
     color: black;
 }
+/* FOOTER END */
