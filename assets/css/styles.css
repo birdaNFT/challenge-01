@@ -16,7 +16,7 @@ p {
 }
 
 
-/* HEADER SECTION STARTS */
+/* HEADER AND NAVIGATION SECTION START */
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -29,7 +29,7 @@ header h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.seo {
+.header-logo-seo-text {
     color: #d9dcd6; /* Adjusts the color of "seo" in the header logo */
 }
 
@@ -46,50 +46,48 @@ nav li {
     display: inline-block;
     margin-left: 25px;
 }
-/* HEADER SECTION ENDS */
+/* HEADER AND NAVIGATION SECTION END */
 
 
 /* MAIN PAGE CONTENT START */
-
-/* Main hero image */
-.hero {
+.main-hero-image {
     width: 100%;
     margin-bottom: 25px;
 }
 
 
 /* Sets the main contents sections image position to left */
-.float-left {
+.main-section-image-float-left {
     float: left;
     margin-right: 25px;
 }
 
 /* Sets the main contents sections image position to right */
-.float-right {
+.main-section-image-float-right {
     float: right;
     margin-left: 25px;
 }
 
 
 /* Main center content sections */
-.content {
+.main-content-container {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content section {
+.main-content-container section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
 }
 
-.content img {
+.main-content-container img {
     max-height: 200px;
 }
 
-.content h2 {
+.main-content-container h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -123,7 +121,7 @@ aside img {
 /* MAIN PAGE CONTENT END */
 
 
-/* FOOTER START */
+/* FOOTER SECTION START */
 footer {
     padding: 30px;
     clear: both;
@@ -138,4 +136,4 @@ footer h2 {
 footer p {
     color: black;
 }
-/* FOOTER END */
+/* FOOTER SECTION END */
